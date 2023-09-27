@@ -1,0 +1,35 @@
+body {
+  background: url(COMPUTER\ SHOP.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+form {
+  width: 350px;
+  padding: 20px;
+  background: rgba(44, 62, 80, 0.8);
+  color: whitesmoke;
+  margin: auto;
+}
+
+input {
+  width: 300px;
+}
+select,
+.current {
+  width: 300px;
+}
+.calizion,
+label input {
+  width: auto;
+}
+button {
+  background-color: #0eee0e;
+  text-align: center;
+  width: 300px;
+  color: whitesmoke;
+}
+textarea {
+  width: 300px;
+  border-radius: 20px;
+  border-style: solid 10px red;
+}
